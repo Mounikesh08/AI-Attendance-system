@@ -36,3 +36,8 @@ This project is a **real-time face recognition attendance system** that uses a w
    ```bash
    git clone https://github.com/yourusername/ai-attendance-system.git
    cd ai-attendance-system
+### 🔍 Face Detection in Action
+![Face Detection](Screenshot272.png)
+
+### 📋 Attendance Log View
+![Attendance View](images/attendance.png)
