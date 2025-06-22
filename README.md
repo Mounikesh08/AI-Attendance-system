@@ -40,4 +40,4 @@ This project is a **real-time face recognition attendance system** that uses a w
 ![Face Detection](Result.png)
 
 ### 📋 Attendance Log View
-![Attendance View](Attendance-csv-file.png)
+![Attendance View](Attendance.png)
