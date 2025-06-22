@@ -1,4 +1,4 @@
-# AI Attendance System using Face Recognition (dlib)
+# AI Attendance System using Face Recognition (OpenCV and dlib)
 
 ![Attendance System](https://img.shields.io/badge/status-active-brightgreen)
 
