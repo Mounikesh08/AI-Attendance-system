@@ -1,2 +1,2 @@
-# AI-Attendance-system
+# AI-Attendance-systemusing-Face-Recognition-with-OpenCV-and-dlib
 Real-time AI Attendance System using Face Recognition with OpenCV and dlib
